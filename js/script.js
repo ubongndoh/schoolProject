@@ -161,3 +161,5 @@ $('#myCarousel .carousel-item img').on('click', function (e) {
 	var src = $(e.target).attr('data-remote');
 	if (src) $(this).ekkoLightbox();
 });
+
+// gallery
