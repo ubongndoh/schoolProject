@@ -449,6 +449,8 @@ a h4:hover {
 /* overlay */
 .overlay {
 	position: relative;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .overlay::before {
@@ -458,7 +460,7 @@ a h4:hover {
 	width: 100%;
 	top: 0;
 	left: 0;
-	background: #1a1a37;
+	background: #404049;
 	opacity: 0.8;
 }
 
