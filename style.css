@@ -11,15 +11,15 @@
 } */
 
 #carousel .carousel-item.boat {
-	background-image: url('https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8ZWR1Y2F0aW9ufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60');
+	background-image: url('images/kids/Kids_005.jpg');
 }
 
 #carousel .carousel-item.sea {
-	background-image: url('https://images.unsplash.com/photo-1507878866276-a947ef722fee?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTJ8fGVkdWNhdGlvbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60');
+	background-image: url('images/class/Class_013.jpg');
 }
 
 #carousel .carousel-item.river {
-	background-image: url('https://images.unsplash.com/photo-1540151812223-c30b3fab58e6?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTh8fGVkdWNhdGlvbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60');
+	background-image: url('images/class/Class_010.jpg');
 }
 
 #carousel .carousel-item {
