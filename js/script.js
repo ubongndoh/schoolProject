@@ -21,13 +21,13 @@
 	});
 
 	// // Background-images
-	// $('[data-background]').each(function () {
-	// 	$(this).css({
-	// 		'background-image': 'url(' + $(this).data('background') + ')',
-	// 	});
-	// });
+	$('[data-background]').each(function () {
+		$(this).css({
+			'background-image': 'url(' + $(this).data('background') + ')',
+		});
+	});
 
-	// //Hero Slider
+	// // //Hero Slider
 	// $('.hero-slider').slick({
 	// 	autoplay: true,
 	// 	autoplaySpeed: 7500,
@@ -44,10 +44,10 @@
 	// });
 	// $('.hero-slider').slickAnimation();
 
-	// venobox popup
-	$(document).ready(function () {
-		$('.venobox').venobox();
-	});
+	// // venobox popup
+	// $(document).ready(function () {
+	// 	$('.venobox').venobox();
+	// });
 
 	// filter
 	$(document).ready(function () {
